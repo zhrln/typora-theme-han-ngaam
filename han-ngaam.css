@@ -563,6 +563,22 @@ a.md-toc-inner {
   margin-bottom: 1em;
 }
 
+#write .md-resize-table-th .popover {
+  width: auto;
+}
+
+#write .code-tooltip-content {
+  padding: 0;
+}
+
+.md-grid-board-wrap #md-grid-width, .md-grid-board-wrap #md-grid-height {
+  text-align: center;
+}
+
+table.md-grid-board {
+  margin: 0 0 10px;
+}
+
 ::-webkit-scrollbar-corner {
   display: none;
   background: transparent;

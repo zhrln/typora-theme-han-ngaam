@@ -142,7 +142,7 @@ body, button, input, select, textarea {
 }
 
 body {
-  font-family: "PingFang SC", "Lantinghei SC", "SimHei", "Microsoft Yahei", "Hiragino Sans GB", "Microsoft Sans Serif", "WenQuanYi Micro Hei", sans;
+  font-family: "PingFang SC", "Lantinghei SC", "WenQuanYi Micro Hei", "SimSun", "Microsoft Sans Serif",  sans;
 }
 
 h1, h2, h3, h4, h5, h6 {

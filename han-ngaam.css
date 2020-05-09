@@ -138,7 +138,7 @@ audio, canvas, video {
 
 /* 要注意表单元素并不继承父级 font 的问题 */
 body, button, input, select, textarea {
-  font: 300 1em/1.8 "PingFang SC", "Lantinghei SC", "Microsoft Yahei", "Hiragino Sans GB", "Microsoft Sans Serif", "WenQuanYi Micro Hei", sans;
+  font: 300 1em/1.8 "PingFang SC", "Lantinghei SC", "WenQuanYi Micro Hei", "SimSun", "Microsoft Sans Serif",  sans;
 }
 
 body {
@@ -147,7 +147,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   /* font-family: "TimesNewRomanPS-ItalicMT", "PingFang SC", "Lantinghei SC", "Microsoft Yahei", "Hiragino Sans GB", "Microsoft Sans Serif", "WenQuanYi Micro Hei", sans; */
-  font-family: "PingFang SC", "Lantinghei SC", "Microsoft Yahei", "Hiragino Sans GB", "Microsoft Sans Serif", "WenQuanYi Micro Hei", sans;
+  font-family: "PingFang SC", "Lantinghei SC", "WenQuanYi Micro Hei", "SimSun", "Microsoft Sans Serif",  sans;
   -webkit-font-smoothing: initial;
   font-weight: 100;
   color: var(--text-color);
@@ -315,7 +315,7 @@ hr {
 }
 
 html {
-  font-family: PingFang SC, Verdana, Helvetica Neue, Microsoft Yahei, Hiragino Sans GB, Microsoft Sans Serif, WenQuanYi Micro Hei, sans-serif;
+  font-family: "PingFang SC", "Lantinghei SC", "WenQuanYi Micro Hei", "SimSun", "Microsoft Sans Serif",  sans;
 }
 
 /** 覆盖默认的标题获得焦点后的样式 */
